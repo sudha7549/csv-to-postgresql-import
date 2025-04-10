@@ -1,4 +1,3 @@
-# csv-to-postgresql-import
 
 # CSV to PostgreSQL Import using pgAdmin
 
